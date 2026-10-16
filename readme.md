@@ -1,0 +1,79 @@
+# Proste problemy, chatboty
+## Zadanie 1
+ Które z następujących zadań wymagają w Twojej opinii inteligencji od człowieka:
+
+- wypełnianie deklaracji PIT,
+- streszczanie tekstu,
+- tłumaczenie tekstu,
+- klasyfikacja tekstu do kategorii tematycznych,
+- odpowiadanie na proste pytania zadawane w języku naturalnym (np. polskim),
+- układanie rozkładu jazdy transportu miejskiego,
+- programowanie (pisanie programów komputerowych),
+- „programowanie” kanałów telewizyjnych,
+- testowanie oprogramowania,
+- komponowanie muzyki,
+- rozwiązywanie układów równań,
+- symboliczne obliczanie pochodnych funkcji,
+- symboliczne całkowanie funkcji,
+- kierowanie samochodem.
+# Zadanie 2
+Które z następujących problemów można uznać za mieszczące się w zakresie sztucznej
+inteligencji:
+
+- streszczanie tekstu,
+- tłumaczenie tekstu,
+- klasyfikacja tekstu do kategorii tematycznych,
+- odpowiadanie na proste pytania zadawane w języku naturalnym,
+- rozwiązywanie układów równań,
+- układanie rozkładu jazdy,
+- rozwiązywanie układów równań liniowych,
+- symboliczne obliczanie pochodnych,
+- symboliczne całkowanie,
+- kierowanie samochodem.
+# Zadanie 3
+Które z poniższych rodzajów komunikacyjnego zachowania człowieka mogą być
+obecnie skutecznie imitowane przez sztuczne systemy (odpowiednio oprogramowane
+maszyny):
+
+- rozmowa towarzyska,
+- dyskusja polityczna,
+- dyskusja naukowa,
+- odpowiadanie na pytania klientów w telefonicznej infolinii,
+- odpowiadanie na pytania klientów w internetowej infolinii.
+# Zadanie 4
+Do zadań skorzystaj z załączonej listy Chatbotów (Chatterbotów) lub znajdź własne.
+
+1. Przeprowadź rozmowę z chatbotem. Spróbuj zdefiniować różnice pomiędzy
+botem udającym człowieka (przygotowywanym na test Turinga) a botem
+„asystentem, służącym”.
+2. Sprawdź dwa boty z obu z tych rodzajów na występowanie zachowań:
+  - opowiadanie żartów,
+  - przytaczanie cytatów z twoich wypowiedzi, lub znanych osób,
+  - nawiązywanie wypowiedzi do słów kluczowych,
+  - zadawanie dużej liczby pytań,
+  - powracanie do początku wypowiedzi, sekwencyjne powtarzanie,
+  - zadawanie pytań powstających z twoich wypowiedzi,
+  - odpowiadanie wymijająco, ogólnikowo,
+  - częsta zmiana tematu rozmowy,
+  - problemy z utrzymaniem wątków.
+3. Sporządź raport ze spostrzeżeń.
+4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie prze-
+widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
+wzajemne odpowiedzi).
+5. Zdenerwuj bota 😊😊
+Lista startowa chatbotów:
+
+[cleverbot.com](cleverbot.com)
+[www.chatbot4u.com](www.chatbot4u.com)
+[www.chatbot.pl](www.chatbot.pl)
+[douweosinga.com](douweosinga.com)
+[apps.facebook.com/luxoft_avatar](apps.facebook.com/luxoft_avatar)
+[chatterboty.pl](chatterboty.pl)
+[ikea.com.pl (zapytaj Anię)](ikea.com.pl)
+[www.chatbots.org](www.chatbots.org)
+[www.snikers.pl](www.snikers.pl)
+[www.personalityforge.com (hall of fame)](www.personalityforge.com)
+[www.ecreation.pl](www.ecreation.pl)
+wellbot.tk
+www.inguaris.pl
+tremo.algit.pl
