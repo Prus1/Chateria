@@ -16,7 +16,7 @@ problemy z utrzymaniem wątków.
 Sporządź raport ze spostrzeżeń.
 
 Bot udający człowieka (cleverbot)
-Udaje osobowość i emocje, żarty częste i nie śmieszne, zadaje często pytania 
+Udaje osobowość i emocje, żarty częste i nie śmieszne, nie cytuje, zadaje bardzo często mało sensowne pytania, wymija się od odpowiedzi na zadane mu pytanie odpowiadając pytaniem na pytanie, zmienia temat ciągle, brak utrzymania wątku 
 
 bot asystent 
-szybko i precyzyjnie daje rozwiązanie problemu użytkownika, żarty tylko gdy użytkownik o nie poprosi, cytuję precyzyjnie podając źródła,zadaje pytania w celu doprecyzowania polecenia 
+szybko i precyzyjnie daje rozwiązanie problemu użytkownika, żarty tylko gdy użytkownik o nie poprosi, cytuję precyzyjnie podając źródła,zadaje pytania w celu doprecyzowania polecenia, unika powtórzeń, rzadko wymija się od odpowiedzi stara się odpowiadać konkretnie,konsekwentnie trzyma się tematu od początku konwersacji, utrzymuje kontekst i fakty z rozmowy 
